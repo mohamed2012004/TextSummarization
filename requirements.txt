@@ -6,6 +6,8 @@ rouge_score
 py7zr
 pandas
 nltk
+box
+
 tqdm
 PyYAML
 matplotlib
