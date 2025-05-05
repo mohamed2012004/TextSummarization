@@ -230,3 +230,4 @@
 [2025-05-01 03:20:58,919: INFO: common: yaml file: params.yaml loaded successfully]
 [2025-05-01 03:20:58,921: INFO: common: created directory at: artifacts]
 [2025-05-01 03:20:58,923: INFO: common: created directory at: artifacts/model_trainer]
+[2025-05-05 10:15:17,640: INFO: config: PyTorch version 2.7.0 available.]
