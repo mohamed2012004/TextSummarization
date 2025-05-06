@@ -43,3 +43,7 @@ The model can generate concise summaries from dialogue text, with performance de
 
 Try it yourself
 [Google Colab Notebook](https://colab.research.google.com/drive/1HBn8UEVvxOFJ4GydQBM_r2bgLZFWPLOL?usp=sharing)
+
+
+
+https://github.com/user-attachments/assets/6ef630be-3694-4472-bb3c-0694eaa37067
